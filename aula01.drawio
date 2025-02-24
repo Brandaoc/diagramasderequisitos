@@ -187,10 +187,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TSN42jv9VTAaNcQnjHFR" name="Página-4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-1" value="Recepcionista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="160" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="500" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-6" value="Gerenciamento de hospedagem&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hA0IL_piV-cJqZjO7HWO-1" target="hA0IL_piV-cJqZjO7HWO-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="270" as="sourcePoint" />
+            <mxPoint x="20" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hA0IL_piV-cJqZjO7HWO-10" target="hA0IL_piV-cJqZjO7HWO-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="170" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hA0IL_piV-cJqZjO7HWO-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
